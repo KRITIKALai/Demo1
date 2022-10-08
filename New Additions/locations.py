@@ -1,0 +1,1 @@
+places = ["Karnal", "Minnesota", "Ayuthaya", "San Francisco", "Chester", "Barabati"]
